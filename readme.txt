@@ -17,4 +17,4 @@ Install Enable Customizer either via the WordPress.org plugin repository or by u
 == Changelog ==
 
 = 1.0 – Aug 12, 2023 =
-* Initial Release 
+* Initial Released
